@@ -60,7 +60,7 @@
 	                        <h2>Welcome to City Dental Centre</h2>
 	                        <div class="line-center"></div>
                     	</div>
-                    	<p>Dental treatment is not an expensive affair anymore. City Dental Centre provides patients with the finest oral health care through latest techniques and technologies. We make sure that each dental treatment is carried out with minimal to no discomfort. Our specialised approach to treating any kind of dental problem like tooth loss, gum disease, tooth decay, etc. is simple but precise. City Dental Centre boasts of highly qualified dental specialists who are proficient in providing various outstanding dental services, for instance, Dental Filling, Dental Crown and Bridges, Dental Braces, Dental scaling, Dental Implants, Root Canal treatment, Pediatric dentistry, Gums treatment, Cosmetic dentistry, etc.    </p>
+                    	<p class="text-justify">Dental treatment is not an expensive affair anymore. City Dental Centre provides patients with the finest oral health care through latest techniques and technologies. We make sure that each dental treatment is carried out with minimal to no discomfort. Our specialised approach to treating any kind of dental problem like tooth loss, gum disease, tooth decay, etc. is simple but precise. City Dental Centre boasts of highly qualified dental specialists who are proficient in providing various outstanding dental services, for instance, Dental Filling, Dental Crown and Bridges, Dental Braces, Dental scaling, Dental Implants, Root Canal treatment, Pediatric dentistry, Gums treatment, Cosmetic dentistry, etc.    </p>
           			</div>
           		</div>
           	</div>

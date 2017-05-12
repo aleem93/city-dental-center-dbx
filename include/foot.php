@@ -305,10 +305,11 @@
 		}	
 	</script>
 	<script>
-       $(window).load(function() {
+      $(window).load(function() {
          $("#status").fadeOut("slow"); 
          $("#loader").delay(400).fadeOut(); 
        });
+	   
     </script>
     <script>
 			$(document).ready(function(){

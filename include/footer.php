@@ -68,9 +68,10 @@
 .scaptach{margin-top: 5px;}
 </style>
 <?php
+
 $conn = mysql_connect("aedubaicity.db.10691417.hostedresource.com","aedubaicity","City!#123@D%");
 $db = mysql_select_db("aedubaicity");
-
+define('SITE_URL','http://www.vibescom.in/client_project/clients_website_templates/2017/city-dental-center/');
 include_once("email.class.php");
 if(isset($_POST['contact2'])){
     $name = $_POST['name3'];
@@ -134,27 +135,48 @@ if(isset($_POST['contact2'])){
 
 #######################FOR NEWSLETTER SUBSCRIPTIPN SUBMIT######################################
 if(isset($_POST['news_submit'])){
+    
+    
     $emailid = $_POST['news_letter'];
-    $emailid_encrypt = md5($_POST['news_letter']);
     $verifyCode = rand(10,100);
     $verifyCode_encrypt = md5($verifyCode);
     $sql = mysql_query("INSERT INTO city_news_letter (email,status,rand_no,encrypt_email,encrypt_rand)
-    VALUES ('".$emailid."',0,'".$verifyCode."','".$emailid_encrypt."','".$verifyCode_encrypt."')");
+   VALUES ('".$emailid."',0,'".$verifyCode."','".$emailid_encrypt."','".$verifyCode_encrypt."')");
+   $csv=  $emailid."\n";
+   $csv_handler = fopen ('newsletter.csv','a');
+   fwrite ($csv_handler,$csv);
+   fclose ($csv_handler);
+    //email send to admin////////////////
     $email_obj1 = new Email();
     $email_obj1->mailaccount='vibescom';
-    $email_obj1->to=$emailid;
-    //$email_obj1->toname=$name;
-    $email_obj1->from='shahbaz.khan@vibescom.in';
-    $email_obj1->fromname="City_Dental_Centre";
+    $email_obj1->to=$emailid;//admin
+    $email_obj1->toname='user';
+    $email_obj1->from="dranuragahuja@gmail.com";
+    $email_obj1->fromname="City Dental Centre";
     $email_obj1->subject ="City Dental Centre - Newsletter Subscription";
-    $email_obj1->body.="<b>Dear </b>,<br/><br/> Thank You for NewsLetter Subscription. !<br/><br/><br/>Please click below to verify your email now: <br/><br/>
-            <br/>Kind Regards,<br/>City Dental<br/>(+064)-342-68383
-";
-    //print_r($email_obj1);
+    $email_obj1->body.="<b>Dear Admin</b>,<br/>Email id. ".$emailid." is added to newsletter subscription list. <a href='".SITE_URL."newsletter.csv'></a><br/>
+        <br/><br/>City Dental.";
+		
     $send1=$email_obj1->sendemail();
+    
 
-    //exit();
-}
+
+
+    $email_obj2 = new Email();
+    $email_obj2->mailaccount='vibescom';
+    $email_obj2->to="dranuragahuja@gmail.com";
+    //$email_obj1->toname=$name;
+    $email_obj2->from=$emailid;
+    $email_obj2->fromname="City Dental Centre";
+    $email_obj2->subject ="City Dental Centre - Newsletter Subscription";
+    $email_obj2->body.="<b>Dear user</b>,<br/><br/> Thank You for NewsLetter Subscription.
+            <br/><br/>Regards,<br/>City Dental";
+
+    $send2=$email_obj2->sendemail();
+    //data insert in csv file
+    
+         echo "<script>window.location.href='thanks.php'</script>";
+    }
 ?>
 
 <footer class="footer p82-topbot">
@@ -192,6 +214,9 @@ if(isset($_POST['news_submit'])){
                                     <input type="text" placeholder="Enter Email Address*" name="news_letter" id="news_email"  />
                                     <button type="submit" name="news_submit" id="submit_email" class="send-btn"><i class="fa fa-envelope"></i> Send </button>
                                 </form>
+
+
+                                <a href="example.csv" download>download not open it</a>
 							</div>
 						</div>
 
@@ -383,7 +408,11 @@ if(isset($_POST['news_submit'])){
                         }
                     })
                 }
+
+
+
             });
+           
 
         });
 

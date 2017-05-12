@@ -173,65 +173,65 @@
 								<div class="row">
 									<div id="tab1" class="col-xs-12 margin-b20 tab-r tab-d">
 										<div class="sec-title left">
-											<h2>Best Endodontic Course</h2>
+											<h2>Best Endodontic Course In India</h2>
 											<div class="line"></div>
 										</div>
-										<h2 class="header courses_header"><small><b>Module 1</b></small></h2>
+										<h2 class="header courses_header"><small><b>Module 1 Basic Endodontics</b></small></h2>
 										<div class="clearfix"></div>
 										<div class="row">
-											<div class="col-md-6 col-sm-12 col-xs-12">
+											<div class="col-md-12 col-sm-12 col-xs-12">
 												<div class="trig-er">
-													<h4 class="header">The art of diagnosis- discover the hidden</h4>
+													<h4 class="header">Day 1</h4>
 													<ul class="margin-b20">
-														<li>Chief complaint- how the patient gives you diagnosis</li>
-														<li>Consider medical history- can complicate the treatment</li>
-														<li>Intraoral and extraoral examiation</li>
-														<li>Radiographic examination</li>
-														<li>Cyst / granuloma / abcess</li>
-														<li>Clinical test</li>
-														<li>Heat/cold/EPT- when and how?</li>
+														<li>Introduction to endodontics</li>
+														<li>Access cavity preparation </li>
+														<li>Demonstration and hands on : access cavity preparation on posterior & anterior teeth</li>
+														<li>Canal location and preparation: use of DG16, access opening bur, endo Z bur</li>
+														<li>Use of radiographic and non radiographic methods to determine working</li>
+														<li>Length : use of different apex locators</li>
 													</ul>
 												</div>
 												<div class="margin-t25 trig-er">
-													<h4 class="header margin-t25">Treatment planning</h4>
+													<h4 class="header margin-t25">Day 2</h4>
 													<ul class="margin-b20">
-														<li>When to do fillings</li>
-														<li>When to do pulp cappings</li>
-														<li>When to go for root canal treatment</li>
+														<li>Access opening, canal location on extracted teeth by participants</li>
+														<li>Rubber dam application demonstration</li>
 													</ul>
 												</div>
 												<div class="margin-t25 trig-er">
-													<h4 class="header margin-t25">Access openings</h4>
+													<h4 class="header margin-t25">Day 3</h4>
 													<ul class="margin-b20">
-														<li>Rules of access opening</li>
-														<li>Burs requires- discard round bur</li>
-														<li>Gates glidden drill- a big no!!</li>
-														<li>DG-16- discover the orifices</li>
+														<li>Importance of glide path</li>
+														<li>Cleaning & shaping technique
+															<ul>
+																<li>Step back</li>
+																<li>Crown down</li>
+																<li>Technique for severe curved canals : tactile control activation technique</li>
+															</ul>
+														</li>
+														<li>Demo & hands on : protaper instrumentation technique</li>
 													</ul>
 												</div>
 											</div>
-											<div class="col-md-6 col-sm-12 col-xs-12">
+											<div class="col-md-12 col-sm-12 col-xs-12">
 												<div class="margin767_t25 trig-er">
-													<h4 class="header margin-t25">Working length determination</h4>
+													<h4 class="header margin-t25">Day 4</h4>
 													<ul class="margin-b20">
-														<li>Files required</li>
-														<li>Apex locater- how to include in practice</li>
-														<li>Radiographic determination</li>
-														<li>Determination of working length- ideal way of calculation</li>
-														<li>Files required</li>
-														<li>Apex locater- how to include in practice</li>
-														<li>Radiographic determination</li>
-														<li>Determination of working length- ideal way of calculation</li>
+														<li>Patient allotment</li>
+														<li>Demonstration of correct chair positioning technique for all teeth</li>
+														<li>Demonstration of L.A. techniques</li>
+														<li>HOW to overcome L.A. failure</li>
+														<li>Demo :use of apex locator and endomotor on patients</li>
 													</ul>
 												</div>
-												<div class="margin-t25 trig-er">
+												<!-- <div class="margin-t25 trig-er">
 													<h4 class="header">Practical demonstration</h4>
 													<ul class="margin-b20">
 														<li>Access opening on mounted tooth</li>
 														<li>Coronal enlargement using appropriate files</li>
 														<li>Working length using radiographic method / RVG SYSTEMS / CONE SHIFT TECHNIQUES</li>
 													</ul>
-												</div>
+												</div> -->
 											</div>
 											<div class="clearfix"></div>
 										</div>
@@ -260,44 +260,61 @@
 											</div>
 										</div>
 										
-										<h2 class="header courses_header"><small><b>Module 2</b></small></h2>
+										<h2 class="header courses_header"><small><b>Module 2 Basic Endodontics</b></small></h2>
 										<div class="clearfix"></div>
 										<div class="row">
-											<div class="col-md-6 col-sm-12 col-xs-12">
+											<div class="col-md-12 col-sm-12 col-xs-12">
 												<div class="trig-er">
-													<h4 class="header">Biomechanical preparation</h4>
+													<h4 class="header">Day 5</h4>
 													<ul class="margin-b20">
-														<li>Files to be used: K files/ H files</li>
-														<li>Correct method of filing</li>
-														<li>Initial techniques- hand filing</li>
-														<li>Till what size???- criteria of determining the size</li>
-														<li>Step back technique</li>
-														<li>Crown down technique</li>
-														<li>Hybrid: forms the basis of rotary endodontics</li>
+														<li>Sonic vs ultrasonic irrigation</li>
+														<li>Use of varius irrigation techniques
+															<ul>
+																<li>Endoactivator</li>
+																<li>U files etc</li>
+															</ul>
+														</li>
+														<li>Sequence of various intracanal irrigants
+															<ul>
+																<li>Sodium hypochlorite</li>
+																<li>Saline</li>
+																<li>EDTA</li>
+																<li>Chlorhexidine</li>
+															</ul>
+														</li>
+														<li>Demo and hands on: hand made irrigation device</li>
 													</ul>
 												</div>
 												<div class="margin-t25 trig-er">
-													<h4 class="header margin-t25">Irrigation protocol</h4>
+													<h4 class="header margin-t25">Day 6</h4>
 													<ul class="margin-b20">
-														<li>Selecting the right irrigant</li>
-														<li>Sodium hypochlorite/ saline/ chlorohexidine/ EDTA- criteria to use them</li>
-														<li>Volume of irrigant</li>
-														<li>Modifications of irrigating technique</li>
+														<li>Patient work completion, allotment of new cases</li>
+														<li>Demo and hands on use of</li>
+														<li>Endoactivator</li>
+														<li>U files</li>
+														<li>Manual dynamic activation technique</li>
+														<li>Introduction to various other rotary instruments like hyflex, hero, Neo endo. Self adjusting files etc</li>
 													</ul>
 												</div>
 											</div>
-											<div class="col-md-6 col-sm-12 col-xs-12">
+											<div class="col-md-12 col-sm-12 col-xs-12">
 												<div class="margin767_t25 trig-er">
-													<h4 class="header margin-t25">Rotary endodontics</h4>
+													<h4 class="header margin-t25">Day 7</h4>
 													<ul class="margin-b20">
-														<li>Necessary evil- how?</li>
-														<li>Selecting the right system</li>
-														<li>File systems?</li>
-														<li>How the tooth determines the type of file to be used</li>
-														<li>Practical demonstrations</li>
-														<li>Initial BMP using hand files</li>
-														<li>Sequential use of rotary files</li>
-														<li>Continuous irrigation</li>
+														<li>Use of calcium hydroxide, metapex and other medications</li>
+														<li>Open dressing vs closed dressing ???</li>
+														<li>Use of triple antibiotic paste in endodontics</li>
+														<li>How to prevent ledge formation, management of curved canals.</li>
+														<li>How to negotiate calcified canals by the use of c+ files, D-finders</li>
+													</ul>
+												</div>
+											</div>
+											<div class="col-md-12 col-sm-12 col-xs-12">
+												<div class="margin767_t25 trig-er">
+													<h4 class="header margin-t25">Day 8</h4>
+													<ul class="margin-b20">
+														<li>Patient work completion, allotment of new cases</li>
+														<li>How to make triple antibiotic Paste</li>
 													</ul>
 												</div>
 											</div>
@@ -307,34 +324,50 @@
 										
 										
 										
-										<h2 class="header courses_header"><small><b>Module 3</b></small></h2>
+										<h2 class="header courses_header"><small><b>Module 3 Advanced endodontics</b></small></h2>
 										<div class="clearfix"></div>
 										<div class="row">
-											<div class="col-md-6 col-sm-12 col-xs-12">
+											<div class="col-md-12 col-sm-12 col-xs-12">
 												<div class="trig-er">
-													<h4 class="header margin-t25">Advancements</h4>
+													<h4 class="header margin-t25">Day 9</h4>
 													<ul class="margin-b20">
-														<li>Obturation of open apex</li>
-														<li>Roll cone technique- beginning of the end</li>
-														<li>Single step apexification- MTA Plug</li>
+														<li>Exposure to different sealers
+															<ul>
+																<li>Sealapex</li>
+																<li>Ah plus</li>
+																<li>Apexit-plus</li>
+																<li>Zoe sealer</li>
+															</ul>
+														</li>
+														<li>Various sealer application methods</li>
+														<li>Thermoplasticized obturation technique</li>
 													</ul>
 												</div>
 												<div class="margin-t25 trig-er">
-													<h4 class="header margin-t25">Practical demonsration</h4>
+													<h4 class="header margin-t25">Day 10</h4>
 													<ul class="margin-b20">
-														<li>Obturation techniques</li>
-														<li>Use of MTA in routine practice</li>
+														<li>Patient work completion and allotment of new cases</li>
+														<li>Use of endomotor by Participants on patient</li>
 													</ul>
 												</div>
 											</div>
-											<div class="col-md-6 col-sm-12 col-xs-12">
+											<div class="col-md-12 col-sm-12 col-xs-12">
 												<div class="margin767_t25 trig-er">
-													<h4 class="header">Obturation system</h4>
+													<h4 class="header">Day 11</h4>
 													<ul class="margin-b20">
-														<li>Selection of sealer</li>
-														<li>Zinc oxide eugenol based/ resin based/ MTA based</li>
-														<li>Basic obturation protocol</li>
-														<li>Single cone obturation technique</li>
+														<li>Various obturation techniques</li>
+														<li>Single cone technique</li>
+														<li>Sectional obturation</li>
+														<li>Lateral condensation</li>
+														<li>Vertical condensation</li>
+													</ul>
+												</div>
+												<div class="margin767_t25 trig-er">
+													<h4 class="header">Day 12</h4>
+													<ul class="margin-b20">
+														<li>Patient work completion and allotment of new cases</li>
+														<li>Demonstration & hands on: touch and heat device</li>
+														<li>Use of ultrasonic in lateral condensation</li>
 													</ul>
 												</div>
 											</div>
@@ -343,75 +376,51 @@
 										<hr />
 										
 										
-										<h2 class="header courses_header"><small><b>Module 4</b></small></h2>
+										<h2 class="header courses_header"><small><b>Module 4 Advanced Endodontics</b></small></h2>
 										<div class="clearfix"></div>
 										<div class="row">
-											<div class="col-md-6 col-sm-12 col-xs-12">
+											<div class="col-md-12 col-sm-12 col-xs-12">
 												<div class="trig-er">
-													<h4 class="header margin-t25">Post obturation restorations</h4>
+													<h4 class="header margin-t25">Day 13</h4>
 													<ul class="margin-b20">
-														<li>Importance of post obturation- determining success</li>
-														<li>Selecting the correct restorative material</li>
-														<li>Are crowns absolutely necessary??</li>
-														<li>When to go for post and core</li>
-														<li>Fibre post or custom made</li>
-														<li>LATEST MATERIALS FOR CORE BUILDUP.</li>
+														<li>Retreatment of endodontic failure cases</li>
+														<li>Demonstration of G.P. removal</li>
+														<li>How to manage fractured instrument cases</li>
 													</ul>
 												</div>
 												<div class="margin-t25 trig-er">
-													<h4 class="header">Retreatment endodontics</h4>
+													<h4 class="header">Day 14</h4>
 													<ul class="margin-b20">
-														<li>When to attempt retreatment</li>
-														<li>Determining success - Instruments used for</li>
-														<ol class="">
-															<li>Crown removal</li>
-															<li>Gutta percha retrieval</li>
-															<li>File retrieval</li>
-														</ol>
-														<li>Retreatment vs implants: a big dilemma…</li>
+														<li>Patient work completion and allotment of new cases</li>
 													</ul>
 												</div>
 												
 												<div class="margin-t25 trig-er">
-													<h4 class="header margin-t25">Endo - perio lesions</h4>
+													<h4 class="header margin-t25">Day 15</h4>
 													<ul class="margin-b20">
-														<li>How to diagnose – radiograph/ clinical symptoms/ sinus tracking</li>
-														<li>True endo/ true perio/ combined endo-perio</li>
-														<li>Successful management of various cases.</li>
+														<li>Use of MTA, biodentine & its application</li>
+														<li>Perforation management</li>
+														<li>Apexification</li>
+														<li>Management of vertical root fracture cases</li>
+														<li>Introduction to other latest advances in endodontic world</li>
 													</ul>
 												</div>
 											</div>
-											<div class="col-md-6 col-sm-12 col-xs-12">
+											<div class="col-md-12 col-sm-12 col-xs-12">
 												<div class="margin767_t25 trig-er">
-													<h4 class="header margin-t25">Single sitting endodontics</h4>
+													<h4 class="header margin-t25">Day 16</h4>
 													<ul class="margin-b20">
-														<li>Myths vs reality</li>
-														<li>When to attempt SVE</li>
-														<li>Case selections for SVE</li>
-														<li>When to avoid SVE</li>
-														<li>Criteria determining SVE</li>
-													</ul>
-												</div>
-												<div class="margin-t25 trig-er">
-													<h4 class="header margin-t25">Surgical endodontics</h4>
-													<ul class="margin-b20">
-														<li>Big lesion??? To extract or to do apicoectomy</li>
-														<li>Alternatives:</li>
-														<ol class="">
-															<li>Hemisection</li>
-															<li>Radisection</li>
-															<li>Bicuspidization</li>
-														</ol>
+														<li>Patient work completion and allotment of new cases</li>
+														<li>Submission of log book</li>
 													</ul>
 												</div>
 											</div>
 											<div class="clearfix"></div>
 										</div>
-										<hr />
 										
 										
 										
-										<h2 class="header courses_header"><small><b>Module 5</b></small></h2>
+										<!-- <h2 class="header courses_header"><small><b>Module 5</b></small></h2>
 										<div class="clearfix"></div>
 										<div class="row">
 											<div class="col-md-6 col-sm-12 col-xs-12">
@@ -470,7 +479,7 @@
 											</div>
 											<div class="clearfix"></div>
 										</div>
-										<hr />
+										<hr /> -->
 									</div>
 
 									<div id="tab2" class="col-xs-12 margin-b20 tab-r">
